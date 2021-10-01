@@ -24,7 +24,7 @@ apache self signed certificate and import to AWS
 
 | Name | Version |
 |------|---------|
-| aws | n/a |
+| aws | 3.20.0 |
 
 ## Inputs
 
